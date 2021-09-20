@@ -1,0 +1,12 @@
+.country{
+    background-color: burlywood;
+    border:1px solid sandybrown;
+    padding:10px;
+    margin:10px;
+    border-radius: 20px;
+
+}
+.country h2{
+    color:tomato;
+    font-weight:bold;
+}
